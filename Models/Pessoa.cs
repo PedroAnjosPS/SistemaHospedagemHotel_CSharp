@@ -39,7 +39,8 @@ namespace SistemaHospedagemHotel_CSharp.Models
                 _nome = value;
             }
         }
-        public string Sobrenome {
+        public string Sobrenome
+        {
             get => (_sobrenome != null) ? _sobrenome : "";
 
             set
@@ -50,7 +51,7 @@ namespace SistemaHospedagemHotel_CSharp.Models
                 }
 
                 _sobrenome = value;
-            } 
+            }
         }
         public string NomeCompleto => $"{Nome} {Sobrenome}";
     }

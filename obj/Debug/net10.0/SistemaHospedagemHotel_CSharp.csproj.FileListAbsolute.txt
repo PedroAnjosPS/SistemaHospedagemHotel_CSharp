@@ -1,0 +1,15 @@
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/bin/Debug/net10.0/SistemaHospedagemHotel_CSharp
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/bin/Debug/net10.0/SistemaHospedagemHotel_CSharp.deps.json
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/bin/Debug/net10.0/SistemaHospedagemHotel_CSharp.runtimeconfig.json
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/bin/Debug/net10.0/SistemaHospedagemHotel_CSharp.dll
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/bin/Debug/net10.0/SistemaHospedagemHotel_CSharp.pdb
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/obj/Debug/net10.0/SistemaHospedagemHotel_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/obj/Debug/net10.0/SistemaHospedagemHotel_CSharp.AssemblyInfoInputs.cache
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/obj/Debug/net10.0/SistemaHospedagemHotel_CSharp.AssemblyInfo.cs
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/obj/Debug/net10.0/SistemaHospedagemHotel_CSharp.csproj.CoreCompileInputs.cache
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/obj/Debug/net10.0/SistemaHospedagemHotel_CSharp.sourcelink.json
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/obj/Debug/net10.0/SistemaHospedagemHotel_CSharp.dll
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/obj/Debug/net10.0/refint/SistemaHospedagemHotel_CSharp.dll
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/obj/Debug/net10.0/SistemaHospedagemHotel_CSharp.pdb
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/obj/Debug/net10.0/SistemaHospedagemHotel_CSharp.genruntimeconfig.cache
+/home/pedro-dos-anjos/SistemaHospedagemHotel_CSharp/obj/Debug/net10.0/ref/SistemaHospedagemHotel_CSharp.dll
